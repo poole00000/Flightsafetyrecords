@@ -1,0 +1,4 @@
+*.pdf
+*qualification-project*.json
+*.zip
+.DS_Store
